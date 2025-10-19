@@ -1,0 +1,31 @@
+TransactionID,Items,,,,
+1,TV,Refrigerator,Microwave,Washing Machine,Blender
+2,Refrigerator,,,,
+3,Microwave,Washing Machine,Blender,Toaster,Air Conditioner
+4,Washing Machine,Blender,Toaster,Air Conditioner,Vacuum Cleaner
+5,Toaster,Air Conditioner,Vacuum Cleaner,Dishwasher,Iron
+6,TV,Refrigerator,Microwave,Washing Machine,Blender
+7,Refrigerator,Microwave,Washing Machine,Blender,Toaster
+8,Microwave,Washing Machine,Blender,Toaster,Air Conditioner
+9,Washing Machine,Blender,Toaster,Air Conditioner,Vacuum Cleaner
+10,Toaster,Air Conditioner,Vacuum Cleaner,Dishwasher,Iron
+11,TV,Refrigerator,Microwave,Washing Machine,Blender
+12,Refrigerator,Microwave,Washing Machine,Blender,Toaster
+13,Microwave,Washing Machine,Blender,Toaster,Air Conditioner
+14,Washing Machine,Blender,Toaster,Air Conditioner,Vacuum Cleaner
+15,Toaster,Air Conditioner,Vacuum Cleaner,Dishwasher,Iron
+16,TV,Refrigerator,Microwave,Washing Machine,Blender
+17,Refrigerator,Microwave,Washing Machine,Blender,Toaster
+18,Microwave,Washing Machine,Blender,Toaster,Air Conditioner
+19,Washing Machine,Blender,Toaster,Air Conditioner,Vacuum Cleaner
+20,Toaster,Air Conditioner,Vacuum Cleaner,Dishwasher,Iron
+21,TV,Refrigerator,Microwave,Washing Machine,Blender
+22,Refrigerator,Microwave,Washing Machine,Blender,Toaster
+23,Microwave,Washing Machine,Blender,Toaster,Air Conditioner
+24,Washing Machine,Blender,Toaster,Air Conditioner,Vacuum Cleaner
+25,Toaster,Air Conditioner,Vacuum Cleaner,Dishwasher,Iron
+26,TV,Refrigerator,Microwave,Washing Machine,Blender
+27,Refrigerator,Microwave,Washing Machine,Blender,Toaster
+28,Microwave,Washing Machine,Blender,Toaster,Air Conditioner
+29,Washing Machine,Blender,Toaster,Air Conditioner,Vacuum Cleaner
+30,Toaster,Air Conditioner,Vacuum Cleaner,Dishwasher,Iron
